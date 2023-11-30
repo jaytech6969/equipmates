@@ -1,1 +1,1 @@
-# spicypizzaphp
+# Equipmates
